@@ -204,12 +204,7 @@ The project generates:
 
 ## Author
 
-**Sunandita Chakraborty**
+**V.CHINNACHAMY**
 
-B.Tech Computer Science & Engineering (AI & ML)
 
-Jain (Deemed-to-be) University
 
-GitHub: https://github.com/sunanditachakraborty
-
-LinkedIn: https://linkedin.com/in/sunanditachakraborty/
